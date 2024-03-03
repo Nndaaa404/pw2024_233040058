@@ -1,5 +1,4 @@
-<?php
-
+<?php 
 function urutanAngka($angka)
 {
     $k = 1;
@@ -11,3 +10,4 @@ function urutanAngka($angka)
     }
 }
 echo urutanAngka(5);
+?>
